@@ -5,5 +5,4 @@ class Greeter
 		@name = name
 		@price = price		
 	end
-
 end
